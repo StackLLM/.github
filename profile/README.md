@@ -44,7 +44,7 @@ StackLLM is an independent software organisation based in Morocco. It brings tog
   <tr>
     <td valign="top"><b>E-commerce Platform</b><br><sub>Commerce · Automation</sub></td>
     <td valign="top">A full-stack e-commerce platform with automation built in, not added on top.</td>
-    <td valign="top"><img src="https://raw.githubusercontent.com/StackLLM/.github/main/profile/assets/status-building.svg" alt="In development" height="32"></td>
+    <td valign="top"><img src="https://raw.githubusercontent.com/StackLLM/.github/main/profile/assets/status-next.svg" alt="Next in line" height="32"></td>
   </tr>
   <tr>
     <td valign="top"><b>Teaching Platform</b><br><sub>Education · E-learning</sub></td>
